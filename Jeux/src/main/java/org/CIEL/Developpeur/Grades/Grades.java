@@ -1,6 +1,6 @@
 package org.CIEL.Developpeur.Grades;
 
-public class Grades {
+public class Grades{
 
     public static void Administrateur(){
         return;
