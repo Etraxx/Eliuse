@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61abb53f-8e13-493b-96a4-0bd4844c1f5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/src/main/java/org/CIEL/Developpeur/Grades/Grades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeux/src/main/java/org/CIEL/Developpeur/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/Bug De Git.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2X44rN6cHqzANUnyF0xIaOGmiLJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Ethan&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61abb53f-8e13-493b-96a4-0bd4844c1f5c" name="Changes" comment="" />
+      <created>1697875216818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697875216818</updated>
+    </task>
+    <servers />
+  </component>
+</project>
