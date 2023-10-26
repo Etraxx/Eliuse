@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c9c362-b735-42e2-a4a9-6fc8548a7fcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dessin Croquis/Haku_Type_Demon/Haku_Face_Arrière.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dessin Croquis/Haku_Type_Demon/Haku_Face_Avant.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Grades/Grades.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Player/PlayerConfig.java" beforeDir="false" />
-    </list>
+    <list default="true" id="94c9c362-b735-42e2-a4a9-6fc8548a7fcc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

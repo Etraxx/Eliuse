@@ -10,7 +10,7 @@ public class Main {
         window.setResizable(false); // Pour pouvoir la redimentionner
         window.setTitle("Game_FPS"); // Pour le titre de la fenêtre
 
-        GamePanel gamePanel = new GamePanel();
+        GamePanel gamePanel = new GamePanel(); // Pour importer le fichier GamePanel.java
         window.add(gamePanel);
         System.out.println("GamePanel Chargé.");
 
@@ -18,6 +18,8 @@ public class Main {
 
         window.setLocationRelativeTo(null); // Pour faire apparaître la fenêtre au centre de l'écran
         window.setVisible(true); // Pour qu'on puisse voir la fenêtre
+
+        gamePanel.startGameThread(); // Pour démarrer l'option startGameThread dans GamePanel.java
 
         System.out.println("Fin du Chargement.");
     }
