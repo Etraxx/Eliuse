@@ -3,7 +3,6 @@ package org.CIEL.TEST.core;
 import org.joml.Matrix4f;
 import org.lwjgl.glfw.GLFW;
 import org.lwjgl.glfw.GLFWErrorCallback;
-import org.lwjgl.glfw.GLFWErrorCallbackI;
 import org.lwjgl.glfw.GLFWVidMode;
 import org.lwjgl.opengl.GL;
 import org.lwjgl.opengl.GL11;
@@ -38,7 +37,7 @@ public class WindowManager {
         projectionMatrix = new Matrix4f();
     }
     public void init(){
-        GLFWErrorCallback.create((GLFWErrorCallbackI) System.err).set();
+        GLFWErrorCallback.createPrint(System.err).set();
 
         if(!GLFW.glfwInit())
             throw new IllegalStateException("Unable to initialize GLFW");

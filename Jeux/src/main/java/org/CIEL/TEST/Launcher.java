@@ -4,10 +4,12 @@ import org.CIEL.TEST.core.WindowManager;
 import org.lwjgl.Version;
 
 public class Launcher {
+
+    private static WindowManager window;
+
     public static void main(String[] args){
         System.out.println(Version.getVersion());
-        WindowManager window = new WindowManager("Jeux", 1600, 900, false);
-        window.init();
+        window = new WindowManager("Jeux", 1920, 1080, false);
 
         while(!window.windowShouldClose()){
             window.update();
@@ -15,4 +17,9 @@ public class Launcher {
 
         window.cleanup();
     }
+
+    public static WindowManager getWindow() {
+        return window;
+    }
+    
 }
