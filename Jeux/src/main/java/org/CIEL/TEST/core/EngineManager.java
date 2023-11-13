@@ -1,6 +1,7 @@
 package org.CIEL.TEST.core;
 
 import org.CIEL.TEST.Launcher;
+import org.CIEL.TEST.core.utils.Constants;
 import org.lwjgl.glfw.GLFW;
 import org.lwjgl.glfw.GLFWErrorCallback;
 
@@ -45,7 +46,31 @@ public class EngineManager {
 
             unprocessedTime += passedTime / (double) NANOSECOND;
             frameCounter += passedTime;
+
+            input();
+
+            while (unprocessedTime > frametime){
+                render = true;
+                unprocessedTime -= frametime;
+
+                if(window.windowShouldClose()){
+                    stop();
+                }
+
+                if(frameCounter >= NANOSECOND){
+                    setFps(frames);
+                    window.setTitle(Constants.TITLE + getFps());
+                    frames = 0;
+                    frameCounter = 0;
+                }
+            }
+            if(render){
+                update();
+                render();
+                frames++;
+            }
         }
+        cleanup();
     }
 
     private void stop(){
@@ -81,5 +106,4 @@ public class EngineManager {
         EngineManager.fps = fps;
     }
 
-    
 }

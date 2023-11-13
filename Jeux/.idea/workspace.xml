@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7416bc45-3e40-4530-b619-3cb4ae528bce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/utils/Constants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/EngineManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/EngineManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,7 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "Ethan",
     "ignore.virus.scanning.warn.message": "true",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
