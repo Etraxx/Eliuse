@@ -19,8 +19,12 @@ public class EngineManager {
 
     private void init() throws Exception{
         GLFW.glfwSetErrorCallback(errorCallback = GLFWErrorCallback.createPrint(System.err));
+        System.out.println("private void init() throws Exception { GLFW.glfwSetErrorCallback(errorCallback = GLFWErrorCallback.createPrint(System.err)); as encounter an error ! EngineManager.java    Line 22");
+
         window = Launcher.getWindow();
+
         window.init();
+        System.out.println("private void init() throws Exception { window.init() } as encounter an error");
     }
 
     public void start() throws Exception{
@@ -29,6 +33,7 @@ public class EngineManager {
             return;
         }
         run();
+        System.out.println("EngineManager.java is running...");
     }
 
     public void run(){
@@ -78,6 +83,7 @@ public class EngineManager {
             return;
         }
         isRunning = false;
+        System.out.println("EngineManager.java will end in a few seconds...");
     }
 
     private void input(){
