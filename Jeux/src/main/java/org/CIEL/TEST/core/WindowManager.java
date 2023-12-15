@@ -35,6 +35,7 @@ public class WindowManager {
         this.height = height;
         this.vSync = vSync;
         projectionMatrix = new Matrix4f();
+        System.out.println("Matrix4f Loaded !");
     }
     public void init(){
         GLFWErrorCallback.createPrint(System.err).set();
