@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7416bc45-3e40-4530-b619-3cb4ae528bce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Lanceur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/TestJeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/core/GestionnaireDeFenetres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/core/GestionnaireDuMoteur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/EngineManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/WindowManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/core/utils/Constantes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +54,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 7
+  &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2Y0295SvA2tAzmrVXNSoLCJT7cn" />
   <component name="ProjectLevelVcsManager">
@@ -59,26 +68,28 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ToolWindowBuild.ShowToolbar": "false",
     "ToolWindowRun.ShowToolbar": "false",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "Ethan",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "B:/Jeux/Jeux",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.Jeux [buildNeeded]">
+  <component name="RunManager">
     <configuration name="Java 11" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="org.CIEL.TEST.Launcher" />
+      <option name="MAIN_CLASS_NAME" value="org.CIEL.Developpeur.Lanceur" />
       <module name="Jeux.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.CIEL.TEST.*" />
+          <option name="PATTERN" value="org.CIEL.Developpeur.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
