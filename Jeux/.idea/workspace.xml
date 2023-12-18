@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7416bc45-3e40-4530-b619-3cb4ae528bce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Lanceur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/TestJeu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/core/GestionnaireDeFenetres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/core/GestionnaireDuMoteur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/EngineManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/WindowManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/TEST/core/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/core/utils/Constantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Lanceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/Lanceur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/core/GestionnaireDuMoteur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CIEL/Developpeur/core/GestionnaireDuMoteur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,10 +69,10 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Java 11">
     <configuration name="Java 11" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -187,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java 11" />
         <item itemvalue="Gradle.Jeux [buildNeeded]" />
         <item itemvalue="Gradle.Jeux [classes]" />
         <item itemvalue="Gradle.Jeux [buildDependents]" />
         <item itemvalue="Gradle.Jeux [build]" />
-        <item itemvalue="Application.Java 11" />
       </list>
     </recent_temporary>
   </component>

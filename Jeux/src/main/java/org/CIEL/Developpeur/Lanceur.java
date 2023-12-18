@@ -8,6 +8,7 @@ import org.lwjgl.Version;
 public class Lanceur {
 
     private static GestionnaireDeFenetres fenetres;
+    private static GestionnaireDuMoteur moteur;
     private static TestJeu jeu;
 
 
@@ -17,7 +18,7 @@ public class Lanceur {
         System.out.println("Gestionnaire de fenetres défini sur 1920x1080 144fps plein écran défini sur false");
         jeu = new TestJeu();
         System.out.println("TestJeu Chargé !");
-        GestionnaireDuMoteur moteur = new GestionnaireDuMoteur();
+        moteur = new GestionnaireDuMoteur();
         System.out.println("Chargement du GestionnaireDeMoteur...");
         try{
             moteur.start();

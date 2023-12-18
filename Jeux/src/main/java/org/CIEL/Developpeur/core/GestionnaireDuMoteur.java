@@ -10,7 +10,7 @@ public class GestionnaireDuMoteur {
     public static final float tauxImage = 1000;
 
     private static int fps;
-    private static float tempsDeTrame = 1.0f / nanosecondes;
+    private static float tempsDeTrame = 1.0f / tauxImage;
 
     private boolean enCoursExecution;
 
