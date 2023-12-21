@@ -1,8 +1,8 @@
 package org.CIEL.Developpeur;
 
-import org.CIEL.Developpeur.core.GestionnaireDuMoteur;
-import org.CIEL.Developpeur.core.GestionnaireDeFenetres;
-import org.CIEL.Developpeur.core.utils.Constantes;
+import org.CIEL.Developpeur.coeur.GestionnaireDuMoteur;
+import org.CIEL.Developpeur.coeur.GestionnaireDeFenetres;
+import org.CIEL.Developpeur.coeur.utilitaires.Constantes;
 import org.lwjgl.Version;
 
 public class Lanceur {
@@ -14,8 +14,8 @@ public class Lanceur {
 
     public static void main(String[] args){
         System.out.println(Version.getVersion());
-        fenetres = new GestionnaireDeFenetres(Constantes.TITRE, 1920, 1080, false);
-        System.out.println("Gestionnaire de fenetres défini sur 1920x1080 144fps plein écran défini sur false");
+        fenetres = new GestionnaireDeFenetres(Constantes.TITRE, 1080, 720, false);
+        System.out.println("Gestionnaire de fenetres défini sur 1080x720 144fps plein écran défini sur false");
         jeu = new TestJeu();
         System.out.println("TestJeu Chargé !");
         moteur = new GestionnaireDuMoteur();

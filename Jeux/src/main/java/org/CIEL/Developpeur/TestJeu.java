@@ -1,8 +1,8 @@
 package org.CIEL.Developpeur;
 
-import org.CIEL.Developpeur.core.GestionnaireDuRendu;
-import org.CIEL.Developpeur.core.GestionnaireDeFenetres;
-import org.CIEL.Developpeur.core.iLogique;
+import org.CIEL.Developpeur.coeur.GestionnaireDuRendu;
+import org.CIEL.Developpeur.coeur.GestionnaireDeFenetres;
+import org.CIEL.Developpeur.coeur.iLogique;
 import org.lwjgl.glfw.GLFW;
 import org.lwjgl.opengl.GL11;
 
